@@ -4,6 +4,6 @@ The goal of this project is to develop a food search enigne based on information
 
 The first step is to obtain all the links of the recipes present on the website. 
 Next, For each recipe key information are extracted and stored in an ordered manner. 
-The data collected above are then cleaned and processed, and an inverted index is built.
+The data collected above are then cleaned and processed, and an inverted index is constructed.
 
 Finally, the search engine is built and some data analysis are performed.
